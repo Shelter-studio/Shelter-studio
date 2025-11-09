@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shelter-studio
 - 👀 I’m interested in making 2D computer games
-- 🌱 I’m currently learning UE5
+- 🌱 I’m currently learning UE5 and Godot
 - 📫 Reaching me is possible via email and DM
 
 <!---
